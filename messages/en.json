@@ -434,6 +434,46 @@
             "schoolsApp": "Uses Teacher App"
         }
     },
+    "Auth": {
+        "quranTranslation": "Indeed, We have made the Quran easy to remember. Is there anyone who will be mindful?",
+        "quranReference": "Surah Al-Qamar (54:17)",
+        "tagline": "Quran Memorization Management Platform",
+        "Login": {
+            "title": "Welcome back",
+            "subtitle": "Sign in to your Connect The Dots account",
+            "email": "Email",
+            "emailPlaceholder": "you@example.com",
+            "password": "Password",
+            "forgotPassword": "Forgot password?",
+            "submit": "Sign In",
+            "orContinueWith": "Or continue with",
+            "noAccount": "Don't have an account?",
+            "signUp": "Sign up",
+            "agreementPrefix": "By continuing, you agree to our",
+            "terms": "Terms of Service",
+            "and": "and",
+            "privacy": "Privacy Policy"
+        },
+        "Signup": {
+            "title": "Create your account",
+            "subtitle": "Start your Quran memorization journey today",
+            "name": "Full Name",
+            "namePlaceholder": "Enter your full name",
+            "email": "Email",
+            "emailPlaceholder": "you@example.com",
+            "password": "Password",
+            "confirmPassword": "Confirm Password",
+            "passwordHint": "Must be at least 8 characters long.",
+            "submit": "Create Account",
+            "orContinueWith": "Or continue with",
+            "hasAccount": "Already have an account?",
+            "signIn": "Sign in",
+            "agreementPrefix": "By creating an account, you agree to our",
+            "terms": "Terms of Service",
+            "and": "and",
+            "privacy": "Privacy Policy"
+        }
+    },
     "Terms": {
         "title": "Terms of Service - Connect The Dots",
         "badge": "Legal",
